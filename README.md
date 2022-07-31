@@ -2,7 +2,7 @@ backrooms
 
 A simple example backrooms map and biosuit version of mr fixit for Cube 2 Sauerbraten.
 
-briancarlbahr.com 2022
+Created 2022
 
 https://github.com/briancarlbahr/backrooms
 
